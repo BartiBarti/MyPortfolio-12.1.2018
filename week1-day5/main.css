@@ -1,0 +1,50 @@
+/*body {
+    background-color: #ff0000
+}
+
+h1 {
+    background-color: rgb(217, 255, 0)
+}
+
+h2 {
+    background-color: rgb(86, 214, 21)
+}
+
+section {
+    color: rgb(83, 183, 187);
+    background-color: #0000ff
+}*/
+body {
+    background-color: silver;
+}
+
+h1 {
+    background-color: #149;
+    color: #fff;
+    width: 50%;
+    min-width: 200px;
+}
+
+h2 {
+    background-color: #196;
+}
+
+p {
+    background-color: #a11;
+}
+
+ul {
+    background-color: crimson;
+}
+
+li {
+    background-color: aqua;
+}
+
+a {
+    background-color: cornflowerblue;
+}
+
+strong {
+    background-color: #fff;
+}
